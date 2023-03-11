@@ -13,4 +13,4 @@ Vous trouvez à cette page un catalogue de logiciels que je vous recommandes, cl
 
 ## Contact
 
-Si vous avez la moindre question sur un outils où si vous souhaitez un conseil particulier, n'hésiter pas à m'écrire. Mes coordonnées sont dans l'onglet "Contact" 😉
+Si vous avez la moindre question sur un outils où si vous souhaitez un conseil particulier, n'hésiter pas à m'écrire. Mes coordonnées sont dans l'onglet "Contact"
