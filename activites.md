@@ -1,16 +1,16 @@
 ---
 title: Activités
 ---
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+Ce site vous propose différentes ressources :
 
-## Nos activités
+## Articles
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+Rédaction d'articles sur les outils libres existants et sur les principes du numérique **libre, décentralisé, gratuit et accessible**.
 
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+## Catalogue
 
+Vous trouvez à cette page un catalogue de logiciels que je vous recommandes, classés dans un tableau
+
+## Contact
+
+Si vous avez la moindre question sur un outils où si vous souhaitez un conseil particulier, n'hésiter pas à m'écrire. Mes coordonnées sont dans l'onglet Contact :wink:
