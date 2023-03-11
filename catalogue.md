@@ -16,4 +16,5 @@ title: Catalogue
     <td>Gratuit, 100% open source</td>
     <td>Assez Difficile, nécessite un apprentissage (mais de nombreux tutoriels existent pour apprendre à l'utiliser)</td>
     <td>Particulièrement bien développé, dans un style moderne, par une équipe de plus en plus grande</td>
+    <td>De nombreuses extensions pour facilité et accélérer certaines tâches et personnaliser l'interface. Données stocké localement (pas de piratage réseau ni de surveillance de données)</td>
 </table>
