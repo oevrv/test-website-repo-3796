@@ -18,18 +18,3 @@ title: Catalogue
     <td>Particulièrement bien développé, dans un style moderne, par une équipe de plus en plus grande</td>
     <td>De nombreuses extensions pour facilité et accélérer certaines tâches et personnaliser l'interface. Données stocké localement (pas de piratage réseau ni de surveillance de données)</td>
 </table>
-
-
-<table>
-    <thead>
-        <tr>
-            <th colspan="2">The table header</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>The table body</td>
-            <td>with two columns</td>
-        </tr>
-    </tbody>
-</table>
